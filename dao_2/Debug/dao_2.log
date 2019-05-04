@@ -1,0 +1,22 @@
+﻿  DaoDriver.cpp
+c:\users\joe\source\repos\dao_2\dao_2\player1.h(274): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\player1.h(279): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\player1.h(284): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\player1.h(289): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\player1.h(437): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\player1.h(442): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\player1.h(447): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\player1.h(452): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\player2.h(263): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\player2.h(268): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\player2.h(273): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\player2.h(278): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\player2.h(426): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\player2.h(431): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\player2.h(436): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\player2.h(441): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'const unsigned short' can equal the given constant
+c:\users\joe\source\repos\dao_2\dao_2\daodriver.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\joe\source\repos\dao_2\dao_2\player1.h(654): warning C4715: 'Player1::get_move': not all control paths return a value
+c:\users\joe\source\repos\dao_2\dao_2\player2.h(643): warning C4715: 'Player2::get_move': not all control paths return a value
+  dao_2.vcxproj -> C:\Users\Joe\Source\Repos\dao_2\Debug\dao_2.exe
+  dao_2.vcxproj -> C:\Users\Joe\Source\Repos\dao_2\Debug\dao_2.pdb (Partial PDB)

@@ -1,0 +1,184 @@
+
+Round #: 1
+  1  0  0  2
+  0  1  2  0
+  0  2  1  0
+  2  0  0  1
+
+Player  2 move:
+
+Round #: 1
+  1  0  0  2
+  0  1  2  0
+  2  0  1  0
+  2  0  0  1
+
+Player  1 move:
+
+Round #: 2
+  1  0  0  2
+  0  1  2  0
+  2  1  0  0
+  2  0  0  1
+
+Player  2 move:
+
+Round #: 2
+  1  0  0  2
+  2  1  2  0
+  0  1  0  0
+  2  0  0  1
+
+Player  1 move:
+
+Round #: 3
+  1  0  0  2
+  2  0  2  0
+  1  1  0  0
+  2  0  0  1
+
+Player  2 move:
+
+Round #: 3
+  1  0  2  2
+  2  0  0  0
+  1  1  0  0
+  2  0  0  1
+
+Player  1 move:
+
+Round #: 4
+  0  1  2  2
+  2  0  0  0
+  1  1  0  0
+  2  0  0  1
+
+Player  2 move:
+
+Round #: 4
+  0  1  0  2
+  2  0  0  2
+  1  1  0  0
+  2  0  0  1
+
+Player  1 move:
+
+Round #: 5
+  0  1  0  2
+  2  0  0  2
+  0  1  0  0
+  2  1  0  1
+
+Player  2 move:
+
+Round #: 5
+  0  1  0  2
+  2  0  0  0
+  0  1  2  0
+  2  1  0  1
+
+Player  1 move:
+
+Round #: 6
+  1  0  0  2
+  2  0  0  0
+  0  1  2  0
+  2  1  0  1
+
+Player  2 move:
+
+Round #: 6
+  1  0  0  2
+  2  0  0  2
+  0  1  0  0
+  2  1  0  1
+
+Player  1 move:
+
+Round #: 7
+  0  0  1  2
+  2  0  0  2
+  0  1  0  0
+  2  1  0  1
+
+Player  2 move:
+
+Round #: 7
+  0  0  1  2
+  2  0  0  0
+  0  1  2  0
+  2  1  0  1
+
+Player  1 move:
+
+Round #: 8
+  1  0  0  2
+  2  0  0  0
+  0  1  2  0
+  2  1  0  1
+
+Player  2 move:
+
+Round #: 8
+  1  0  0  2
+  2  0  0  2
+  0  1  0  0
+  2  1  0  1
+
+Player  1 move:
+
+Round #: 9
+  0  0  1  2
+  2  0  0  2
+  0  1  0  0
+  2  1  0  1
+
+Player  2 move:
+
+Round #: 9
+  0  0  1  2
+  2  0  0  0
+  0  1  2  0
+  2  1  0  1
+
+Player  1 move:
+
+Round #: 10
+  1  0  0  2
+  2  0  0  0
+  0  1  2  0
+  2  1  0  1
+
+Player  2 move:
+
+Round #: 10
+  1  0  0  2
+  2  0  0  2
+  0  1  0  0
+  2  1  0  1
+
+Player  1 move:
+
+Round #: 11
+  0  0  1  2
+  2  0  0  2
+  0  1  0  0
+  2  1  0  1
+
+Player  2 move:
+
+Round #: 11
+  0  0  1  2
+  2  0  0  0
+  0  1  2  0
+  2  1  0  1
+
+Player  1 move:
+
+Round #: 12
+  1  0  0  2
+  2  0  0  0
+  0  1  2  0
+  2  1  0  1
+
+Player  2 move:
