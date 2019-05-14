@@ -7,7 +7,7 @@ Dao is an abstract game played on a 4x4 board. Each player has 4 pieces,
 which they take turns moving until a winning position occurs.
 
 I have used a min/max algorithm of 6-ply depth (3 full moves for each
-player) as the strategy for my game playing agent (file player1.h). The
+player) as the strategy for my game playing agent (dao_2/player1.h). The
 heuristic used takes a look at all the possilbe winning positons, and 
 tries to guage which player is closer to winning at each possible board
 state.
