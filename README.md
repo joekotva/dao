@@ -12,11 +12,8 @@ heuristic used takes a look at all the possilbe winning positons, and
 tries to guage which player is closer to winning at each possible board
 state.
 
-/////////////////////////////////////////////////////////////////////////////
 Other standard files:
 
 StdAfx.h, StdAfx.cpp
     These files are used to build a precompiled header (PCH) file
     named to get the project to work on Visual Studio.
-
-/////////////////////////////////////////////////////////////////////////////
