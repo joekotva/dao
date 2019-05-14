@@ -1,6 +1,4 @@
-========================================================================
-    Dao Project Overview
-========================================================================
+# Dao Project Overview
 
 The majority of files were given to students by the professor to provide
 a common abstract interface for the Dao game.
